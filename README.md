@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📫 How to reach me **maymendez3666@gmail.com**</p>
+* 📫 How to reach me **maymendez3666@gmail.com**
 
 ###
 
