@@ -1,5 +1,4 @@
 <h1 align="center">💫 Hi, I'm Mayra!</h1>
-###
 <h2 align="center">A passionate frontend developer</h2>
 
 ## 🌐 Socials:
