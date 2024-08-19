@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **maymendez3666@gmail.com**
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <img align="right" height="130" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
