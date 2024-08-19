@@ -45,13 +45,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+<img align="right" height="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
+
 ###
 
 <h2 align="left">Social Media</h2>
 
 
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
 
 ###
 
