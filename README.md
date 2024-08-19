@@ -9,7 +9,7 @@
 </div>
 
 
-- 👨‍💻 All of my projects are available at [https://mayra1703.github.io](https://mayra1703.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://mayra1703.github.io)
 
 - 📫 How to reach me **maymendez3666@gmail.com**
 
@@ -17,8 +17,9 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
 
-### Technology Stack
+<h2 align="left">Technology Stack</h2>
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
