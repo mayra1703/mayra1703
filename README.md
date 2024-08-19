@@ -1,3 +1,4 @@
+<h1 align="center">💫 Hi, I'm Mayra!</h1>
 # 💫 Hi, I'm Mayra!
 A passionate frontend developer
 
