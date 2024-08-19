@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h2>
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=mayra1703&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mayra1703&icon=5&color=1)](https://visitcount.itsvg.in)
 </div>
 
 <div align="center">
