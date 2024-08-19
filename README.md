@@ -19,24 +19,6 @@
 
 * 📫 How to reach me **maymendez3666@gmail.com**
 
-<style>
-  h2::after {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 2px;
-    background: #000;
-    position: relative;
-    top: -15px; /* Ajusta la posición según sea necesario */
-    z-index: 1;
-  }
-
-  img.align-right {
-    position: relative;
-    z-index: 0;
-  }
-</style>
-
 ###
 
 <h2 align="left">Technology Stack</h2>
@@ -63,15 +45,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
-
-###
-
 ###
 
 <h2 align="left">Social Media</h2>
+
+
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif"  />
 
 ###
 
