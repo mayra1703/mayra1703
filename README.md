@@ -20,6 +20,23 @@
 * 📫 How to reach me **maymendez3666@gmail.com**
 
 ###
+<style>
+  h2::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: #000;
+    position: relative;
+    top: -15px; /* Ajusta la posición según sea necesario */
+    z-index: 1;
+  }
+
+  img.align-right {
+    position: relative;
+    z-index: 0;
+  }
+</style>
 
 <h2 align="left">Technology Stack</h2>
 
