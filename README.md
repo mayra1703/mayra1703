@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">- 👨‍💻 All of my projects are available at [my portfolio](https://mayra1703.github.io)</h4>
+* 👨‍💻 All of my projects are available at [my portfolio](https://mayra1703.github.io)
 
 ###
 
