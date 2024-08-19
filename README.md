@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mayra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://mayra1703.github.io](https://mayra1703.github.io)
-
-- 📫 How to reach me **maymendez3666@gmail.com**
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayra1703&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayra1703&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+- 👨‍💻 All of my projects are available at [https://mayra1703.github.io](https://mayra1703.github.io)
+
+- 📫 How to reach me **maymendez3666@gmail.com**
 
 ###
 
