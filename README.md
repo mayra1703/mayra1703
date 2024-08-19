@@ -19,7 +19,6 @@
 
 * 📫 How to reach me **maymendez3666@gmail.com**
 
-###
 <style>
   h2::after {
     content: '';
@@ -37,6 +36,8 @@
     z-index: 0;
   }
 </style>
+
+###
 
 <h2 align="left">Technology Stack</h2>
 
